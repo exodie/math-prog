@@ -11,6 +11,8 @@ def three():
         (232.44, 1)
     ]
 
+    print("Задание 3:")
     for a, delta in data:
         abs_error = absolute_error(a, delta)
         print(f"Для a = {a} и δ = {delta}%: Абсолютная погрешность = {abs_error:.5f}")
+    print()

@@ -18,7 +18,7 @@ def one():
 
     # Расчёт погрешностей
     errors = calculate_errors(numbers)
-
+    print("Задание 1:")
     # Вывод результатов
     for i in range(len(numbers)):
         print(f"Число {numbers[i]}:")
