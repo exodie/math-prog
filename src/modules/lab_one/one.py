@@ -11,6 +11,8 @@ def calculate_errors(numbers):
     return results
 
 def one():
+    print("Лабораторная работа №1")
+
     # Исходные числа
     numbers = [0.16152, 0.01204, 1.225]
 
