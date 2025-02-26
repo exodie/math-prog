@@ -16,3 +16,4 @@ def seven():
     z = math.log(summa)
     print("Задание 7:")
     print(f"Значение z = {z:.2f}")
+    print()
