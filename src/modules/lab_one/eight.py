@@ -52,4 +52,4 @@ def eight():
     print(f"y = x^3 * sin(x), x = sqrt(2). Точность 7 знаков: {y1}")
     print(f"y = x * ln(x), x = e. . Точность 7 знаков {y2}")
     print(f"y = e^x * cos(x), x = sqrt(3). Точность 6 знаков {y3}")
-    print(f"y = x^2 * log10(x), x = 3sqrt(3). Точность 7 знаков {y4}")
+    print(f"y = x^2 * log10(x), x = 3sqrt(3). Точность 6 знаков {y4}")

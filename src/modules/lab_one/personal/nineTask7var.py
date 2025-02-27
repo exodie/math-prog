@@ -1,6 +1,7 @@
 import math
 
 def absolute_error(a, delta_a, l, delta_l, phi, delta_phi):
+
     # Вычисляем частные производные
     partial_a = math.log(phi)
     partial_l = math.sin(phi)
